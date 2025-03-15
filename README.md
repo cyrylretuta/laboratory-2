@@ -27,6 +27,7 @@ This is a simple and responsive portfolio website built using HTML and CSS. The 
 Tested on:
 - ✅ Chrome
 - ✅ Edge
+- ✅ Firefox
 
 ## Deployment:
 The site is hosted at: [Live Demo](https://cyrylretuta.github.io/laboratory-2/)
