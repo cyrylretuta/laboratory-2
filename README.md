@@ -26,4 +26,4 @@ Tested on:
 - ✅ Edge
 
 ## Deployment:
-The site is hosted at: [Live Demo](https://your-username.github.io/portfolio-website/)
+The site is hosted at: [Live Demo](https://cyrylretuta.github.io/laboratory-2/)
