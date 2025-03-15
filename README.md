@@ -17,8 +17,11 @@ This is a simple and responsive portfolio website built using HTML and CSS. The 
 - Mobile screens (max-width: 600px) have adjusted font sizes for readability.
 
 ## Screenshot:
-(lab2_chrome.png)
-(mobile view.jpg)
+### Desktop View:
+![Desktop View](images/lab2_chrome.png)
+
+### Mobile View:
+![Mobile View](images/mobile_view.jpg)
 
 ## Cross-Browser Compatibility:
 Tested on:
