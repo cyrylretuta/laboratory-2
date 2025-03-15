@@ -18,10 +18,10 @@ This is a simple and responsive portfolio website built using HTML and CSS. The 
 
 ## Screenshot:
 ### Desktop View:
-![Desktop View](images/lab2_chrome.png)
+![Screenshot](lab2_chrome.png)
 
 ### Mobile View:
-![Mobile View](images/mobile_view.jpg)
+![Screenshot](mobile view.jpg)
 
 ## Cross-Browser Compatibility:
 Tested on:
